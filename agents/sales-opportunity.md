@@ -128,6 +128,16 @@ Assess urgency and timing signals:
    - Regulatory change -- compliance creates urgency
    - Failed initiative -- "we tried X and it didn't work, we need Y"
    - Contract renewal cycle -- opportunity to switch
+   - **checkmate-specific trigger events (always search for these):**
+   - Job post for "reference check coordinator" or "background check" role = manual process at scale, critical pain signal
+   - No background check vendor detected anywhere = "trusting company" — highest opportunity segment
+   - Healthcare or aged care hiring surge = mandatory AHPRA, police, and working with children checks required
+   - Finance roles advertised that handle money = credit and bankruptcy checks legally advisable
+   - Roles requiring licences (forklift, driver, high-risk work) = licence verification needed
+   - Rapid headcount growth in retail, logistics, construction, or hospitality = volume pain
+   - Bad hire, fraud, or workplace safety incident in their industry (search news) = urgency created externally
+   - New Head of People, People & Culture Manager, or Talent Acquisition Manager in role within 6 months = new leaders evaluate and replace tools in first 90 days
+   - Using Fit2Work, CV Check, Xref, or Referoo = potential dissatisfaction, search for complaints
 
 2. **Urgency Indicators:**
    - Job posts marked "urgent" or "immediate"
@@ -290,3 +300,4 @@ This yields a 0-100 score.
 6. **Timeline is the hardest to assess externally.** Be transparent about this. Score based on what's visible and note that timeline is the first thing to validate in conversation.
 7. **Champion potential is speculative.** You're identifying candidates based on public signals. The actual champion may be someone invisible from outside. Score accordingly (rarely above 7 without direct evidence).
 8. **Score the opportunity, not the company.** A great company with no current need should get a low score. A mediocre company with urgent, well-funded need should score higher.
+9. **checkmate need severity calibration.** For checkmate.tech, Need Severity should score 7+ if ANY of these are true: the company operates in healthcare, finance, government, or retail; they have no background check vendor (manual or nothing); they are hiring at volume with roles requiring licences or credentials; there is evidence of a bad hire or compliance incident. Need Severity scores 9-10 if the company is doing zero checking AND is in a regulated industry — this is the highest-urgency segment because they don't yet know the risk they're carrying.

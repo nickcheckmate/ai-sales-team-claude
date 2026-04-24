@@ -167,6 +167,30 @@ Write a complete, ready-to-send first outreach message for the primary contact v
 - NO buzzwords: "synergy", "leverage", "unlock", "revolutionize", "game-changer", "best-in-class"
 - NO spam triggers: "I hope this email finds you well", "I wanted to reach out", "Just checking in"
 
+#### checkmate-specific messaging rules (apply to every draft)
+
+**Always lead with risk — never features, never price.**
+The single most effective opening for checkmate is surfacing a risk the prospect hasn't quantified. Examples:
+- "Most [industry] businesses we speak to have never verified a qualification or run a police check — and don't realise what that exposes them to."
+- "How are you currently managing background checks when you're hiring at this pace?"
+- "One in five CVs in Australia contains a material misrepresentation. How are you catching that today?"
+
+**Match the check type to their industry in the message:**
+- Healthcare / aged care: mention AHPRA, police checks, working with children
+- Finance / banking: mention credit checks, bankruptcy, fraud prevention
+- Retail / logistics: mention volume automation, reference checks at scale
+- Construction / labour hire: mention licence verification, high-risk work checks
+- Government: mention audit trails, consistent documented process
+
+**Inbound and word-of-mouth leads get a shorter, warmer message.**
+If this prospect came via referral or already knows checkmate, cut the message to 3-4 sentences. Skip the education. Go straight to: "[Name] suggested we connect — worth a quick call to see if we can help?"
+
+**Never mention pricing unprompted.** If it comes up, respond with: "We're not the cheapest option — we focus on being the best. What's driving the concern — is it the overall cost, or is it that the value isn't clear yet?"
+
+**The CTA is always a 20-minute call, never a full demo.** "Worth a 20-min call to see if it's relevant?" outperforms "Can I show you a demo?" for this buyer type every time.
+
+**Word-of-mouth referral CTA:** At the end of every positive conversation,
+
 Also draft:
 - **Subject Line** (for email): Under 50 characters, curiosity-driven or value-driven
 - **LinkedIn Connection Note** (if applicable): Under 300 characters
@@ -326,3 +350,4 @@ This yields a 0-100 score.
 6. **Channel selection must be justified.** Don't default to email because it's easy. If LinkedIn is clearly better for this prospect, say so. If a warm intro is possible, it should always be the primary recommendation.
 7. **Timing recommendations must be specific.** "Reach out soon" is not a recommendation. "Reach out Tuesday morning their time, referencing their Series B announcement from last week" IS a recommendation.
 8. **The strategy must be coherent.** All elements (channel, message, timing, personalization, objection handling) should work together as a unified approach, not feel like disconnected pieces.
+9. **checkmate objection handling priorities.** The most common objections for checkmate in order are: (1) slow internal decision-making — give the champion assets to sell internally, not just talking points for themselves; (2) "we already use Fit2Work / CV Check" — pivot to speed and candidate experience comparison; (3) "we do it manually" — quantify the time cost and audit risk; (4) "we don't do background checks" — education-first, surface the risk exposure before pitching anything; (5) pricing — never discount proactively, always redirect to ROI and risk. Always include at least these five objections in the Objection Predictions table for every checkmate prospect.

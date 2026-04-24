@@ -116,9 +116,7 @@ Score each dimension on a 0-10 scale. Be honest and evidence-based. A 7+ require
 | **Size Fit** | 0-10 | Does the company's size (revenue + employees) match the ideal range for the product? |
 | **Industry Fit** | 0-10 | Is the company in a target vertical? Does their business model align? |
 | **Growth Trajectory** | 0-10 | Is the company growing? Recent funding, hiring, product launches? |
-| **Tech Sophistication** | 0-10 | Is their tech maturity at the right level? Not too basic, not too advanced? |
-| **Budget Signals** | 0-10 | Are there indicators they can afford and would pay for a solution? |
-
+| **Compliance Maturity** | 0-10 | Are they in a regulated industry or high-risk hiring environment? Score higher for healthcare, finance, government, retail, logistics. Score higher if roles require licences or credentials (drivers, forklifts, AHPRA). Score lower if no ANZ presence or fewer than 100 employees. || **Budget Signals** | 0-10 | Are there indicators they can afford and would pay for a solution? |
 **Company Fit Score** = (Size Fit + Industry Fit + Growth Trajectory + Tech Sophistication + Budget Signals) / 5 * 10
 
 This yields a 0-100 score.
@@ -208,3 +206,4 @@ Write your analysis as structured markdown. The orchestrating agent will incorpo
 6. **Time-bound your research.** Prioritize information from the last 12-18 months. Older data is less reliable for scoring.
 7. **Consider the negative.** Absence of data IS a signal. No careers page may mean they're not hiring. No pricing page may mean enterprise-only sales. Note these absences.
 8. **Be concise but complete.** Every line should add value. No filler paragraphs or generic statements.
+9. **checkmate context.** If IDEAL-CUSTOMER-PROFILE.md exists, prioritise these signals: no background check vendor detected (strongest opportunity signal), high-volume or high-turnover hiring industries, roles requiring licences or credentials, ANZ headquarters or operations, 500–2,000 employees. A company doing zero background checking scores HIGHER on opportunity than one already using a competitor.

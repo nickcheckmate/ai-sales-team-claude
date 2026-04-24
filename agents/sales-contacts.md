@@ -39,6 +39,22 @@ Run WebSearch queries to find decision makers:
 3. `"[company name]" CTO OR "VP Engineering" OR "Head of Engineering"` -- Technical buyers
 4. `"[company name]" "VP Sales" OR "VP Marketing" OR "Head of Growth"` -- Revenue leaders
 5. `"[company name]" site:linkedin.com [relevant title]` -- LinkedIn profiles for specific roles
+#### checkmate-specific: Roles to search for
+
+When researching for checkmate.tech, prioritise finding these roles in this order:
+
+1. **HR Manager** — most likely to initiate the conversation and champion the deal
+2. **People & Culture Manager** — same as above, different title
+3. **Talent Acquisition Manager** — owns the hiring funnel, feels the pain of slow checks most acutely
+4. **Head of People / CPO** — decision maker for deals above $50k
+5. **Legal / Risk & Compliance Manager** — gets involved in healthcare, finance, government deals
+6. **Procurement Manager** — gets involved in deals above $75k
+7. **IT Manager / Head of Technology** — reviews integrations and data security for larger deals
+8. **CEO or COO** — for smaller companies (under 200 staff) they may make the call directly
+
+Search specifically for: `"[company name]" "HR Manager" OR "People and Culture" OR "Talent Acquisition" OR "Head of People" site:linkedin.com`
+
+**Deal size routing:** If the company has 500+ employees, always try to identify BOTH the HR/People contact AND a Legal or Procurement contact — deals at this size almost always involve more than one stakeholder.
 
 For each person found, record:
 - Full name
@@ -223,3 +239,4 @@ This yields a 0-100 score.
 6. **Note confidence levels.** If a title or role assignment is inferred rather than confirmed, mark it as "Low confidence" or "Inferred."
 7. **Flag stale data.** If someone's LinkedIn shows they left the company 6 months ago, note this rather than including them as a current contact.
 8. **Personalization must be genuine.** "They work in tech" is not personalization. "They wrote a blog post last month about migrating from monolith to microservices" IS personalization.
+9. **checkmate-specific personalization anchors to look for.** These are the strongest hooks for checkmate outreach: (1) The contact has posted on LinkedIn about hiring challenges, candidate experience, or compliance; (2) They are a member of AHRI (Australian HR Institute) — check their LinkedIn profile; (3) They recently started in their role within the last 6 months — new HR leaders almost always review and replace tools; (4) Their previous employer was a checkmate customer — they already know the product; (5) They have posted about a bad hire, fraud, or compliance issue. Any of these should be rated STRONG and used as the opening line of outreach. Also flag if the contact is active in ANZ HR communities on LinkedIn — engaging with their content before reaching out dramatically improves response rates.

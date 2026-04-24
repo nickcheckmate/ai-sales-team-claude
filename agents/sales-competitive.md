@@ -49,6 +49,19 @@ Search for current job postings and extract tool requirements:
 - Note whether they're hiring for roles that would use your product vs. a competitor
 
 Build a comprehensive map of their current tools in the relevant solution category and adjacent categories.
+#### checkmate-specific: Background check vendors to detect
+
+When researching for checkmate.tech, specifically search for these vendors:
+- Fit2Work (most common ANZ incumbent — slow turnaround, dated UX)
+- CV Check (basic product, limited automation)
+- Xref (reference-only, no background check breadth)
+- Referoo (limited scale, basic reporting)
+- First Advantage (US-focused, poor ANZ support)
+- KPMG or Big 4 manual vetting service (slow, expensive, not scalable)
+
+Search for: `"[company name]" "Fit2Work" OR "CV Check" OR "Xref" OR "Referoo" OR "background check" OR "reference check"`
+
+**CRITICAL:** If NO background check vendor is detected, flag this as the STRONGEST opportunity signal. The majority of ANZ businesses do zero background checking — they trust CVs at face value. This "do nothing" competitor is more common than any named vendor. Treat absence of a vendor as a HIGH score for Solution Gaps Detected.
 
 ### Step 2: Assess Switching Costs
 
@@ -248,3 +261,4 @@ This yields a 0-100 score.
 6. **Consider the "do nothing" competitor.** Sometimes the biggest competitor isn't another tool -- it's inertia. The prospect may choose to stick with their current process, even if it's painful. Account for this.
 7. **Timing matters.** If the prospect just renewed their contract 2 months ago, switching feasibility drops regardless of how good your product is. Flag contract timing when detectable.
 8. **Multiple positioning angles provide flexibility.** Different angles work for different buyers. The technical buyer cares about integrations; the financial buyer cares about ROI; the user buyer cares about daily experience. Provide angles for each.
+9. **checkmate positioning priority.** Always lead with risk reduction, never features or price. The three strongest angles for checkmate are: (1) Speed — faster turnaround than any ANZ competitor; (2) Candidate experience — modern UX reduces drop-off at the final hiring stage; (3) Global coverage — 190 countries in one platform. If no vendor is detected, lead with the risk exposure angle: "Most ANZ businesses trust CVs and never verify — here's what that exposes you to."
